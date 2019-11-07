@@ -1,6 +1,8 @@
 # Lebenslauf
 ## Persönliche Daten
 
+![bild](logo.png)
+
 | | |
 | :--- | ---: |
 | Name: | Denis Hermann |
